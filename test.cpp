@@ -29,6 +29,7 @@ int main()
         }
         cout << endl;
     }
+	cout << "Hello world!" << endl;
 
     system("pause");
     return 0;
